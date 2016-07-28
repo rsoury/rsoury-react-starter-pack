@@ -1,0 +1,26 @@
+/* Styles */
+/* Eventually I want to integrate Stylus setup in this. */
+
+#app {
+  font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #4d4d4d;
+  min-width: 550px;
+  max-width: 850px;
+  margin: 0 auto;
+}
+
+a.active {
+  color: #8c6eff;
+}
+
+nav {
+  padding-top: 20px;
+}
+
+div.message-text{
+  text-align: center;
+  padding:5px 0;
+  color: rgb(150, 150, 150);
+  border-bottom: 1px solid rgb(240, 240, 240);
+  margin-bottom: 10px;
+}
